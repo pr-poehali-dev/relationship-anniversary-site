@@ -185,9 +185,7 @@ const Index = () => {
       {/* Подвал */}
       <footer className="py-8 px-6 bg-gray-50 border-t border-gray-200">
         <div className="max-w-4xl mx-auto text-center">
-          <p className="text-gray-500">
-            Создано с любовью • 19 июля 2025 • Наш первый год ❤️
-          </p>
+          <p className="text-gray-500">Создано с любовью • 19 июля 2025 • Наш первый год ❤️ </p>
         </div>
       </footer>
     </div>
