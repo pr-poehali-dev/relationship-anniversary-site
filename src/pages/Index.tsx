@@ -40,7 +40,8 @@ const Index = () => {
     <div className="min-h-screen bg-gradient-to-b from-pink-50 to-white">
       {/* Музыкальный плеер */}
       <audio ref={audioRef} loop>
-        <source src="#" type="audio/mpeg" />
+        <source src="/music/background.mp3" type="audio/mpeg" />
+        {/* Замените "/music/background.mp3" на путь к вашему файлу */}
       </audio>
 
       {/* Плавающая кнопка музыки */}
