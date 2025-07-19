@@ -70,7 +70,7 @@ const Index = () => {
           </p>
           <div className="flex items-center justify-center space-x-2 animate-fade-in delay-500">
             <Icon name="Heart" size={24} className="text-pink-500 animate-pulse" />
-            <span className="text-lg text-gray-700 font-medium">19 июля 2024 - 19 июля 2025</span>
+            <span className="text-lg text-gray-700 font-medium">21 июля 2024 - 21 июля 2025</span>
             <Icon name="Heart" size={24} className="text-pink-500 animate-pulse" />
           </div>
         </div>
